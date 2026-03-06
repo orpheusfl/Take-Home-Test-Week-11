@@ -1,0 +1,301 @@
+,index,Unnamed: 0,book_title,author_id,Year released,Rating,ratings
+0,900,900,"Garden Spells (Waverley Family, #1)",354.0,2007,"4,05",`94698`
+1,901,901,"The Duke and I (Bridgertons, #1)",,2000,"3,82",`356433`
+2,902,902,"Dance of Thieves (Dance of Thieves, #1)",182.0,2018,"4,21",`70427`
+3,903,903,"A Thousand Pieces of You (Firebird, #1)",355.0,2014,"3,9",`55547`
+4,904,904,"The Friend Zone (Game On, #2)",,2015,"4,15",`40224`
+5,905,905,"Christmas Eve at Friday Harbor (Friday Harbor, #1)",68.0,2010,"3,76",`19147`
+6,906,906,"Crash (Crash, #1)",356.0,2012,"3,97",`60399`
+7,907,907,"Waiting for Tom Hanks (Waiting for Tom Hanks, #1)",357.0,2019,"3,51",`23413`
+8,908,908,"Kings Rising (Captive Prince, #3)",193.0,2016,"4,43",`49858`
+9,909,909,"Glory in Death (In Death, #2)",191.0,1995,"4,27",`59298`
+10,910,910,Arabella (Paperback),229.0,1949,"4,08",`18588`
+11,911,911,Malibu Rising (Hardcover),18.0,2021,"4,09",`595597`
+12,912,912,Saint Anything (Hardcover),153.0,2015,"4,03",`60475`
+13,913,913,"One of Us Is Lying (One of Us is Lying, #1)",358.0,2017,"3,99",`603338`
+14,914,914,,194.0,2017,"4,34",`37067`
+15,915,915,"Bitten (Otherworld, #1)",359.0,2001,"4,02",`99541`
+16,916,916,"The Winner's Kiss (The Winner's Trilogy, #3)",154.0,2016,"4,22",`46572`
+17,917,917,Under the Whispering Door (Hardcover),148.0,2021,"4,19",`102049`
+18,918,918,"Husband Material (London Calling, #2)",80.0,2022,"3,71",`12169`
+19,919,919,Under the Whispering Door (Hardcover),148.0,2021,"4,19",`102049`
+20,920,920,"Saphirblau (Edelstein-Trilogie, #2)",263.0,2010,"4,17",`97457`
+21,921,921,"Love Story (Love Story, #1)",360.0,1970,"3,64",`57475`
+22,922,922,"The Bridgertons: Happily Ever After (Bridgertons, #1.5-8.5; 8.6)",20.0,2013,"4,02",`29594`
+23,923,923,A Very Large Expanse of Sea (Hardcover),58.0,2018,"4,13",`51694`
+24,924,924,"House of Sky and Breath (Crescent City, #2)",15.0,2022,"4,52",`151116`
+25,925,925,"The Perfect Play (Play by Play, #1)",361.0,2011,"3,9",`38713`
+26,926,926,"Slightly Dangerous (Bedwyn Saga, #6)",,2004,"4,21",`19432`
+27,927,927,"Until November (Until, #1)",362.0,2013,"4,09",`50523`
+28,928,928,"The Day of the Duchess (Scandal & Scoundrel, #3)",104.0,2017,"3,92",`14031`
+29,929,929,"Tempting the Best Man (Gamble Brothers, #1)",304.0,2012,"3,69",`33510`
+30,930,930,"Float Plan (Beck Sisters, #1)",363.0,2021,"4,0",`21703`
+31,931,931,"Bridget Jones: The Edge of Reason (Bridget Jones, #2)",82.0,1999,"3,6",`107531`
+32,932,932,"Us (Him, #2)",181.0,2016,"4,32",`26412`
+33,933,933,Dumplin' (Dumplin' #1),283.0,2015,"3,9",`83838`
+34,934,934,"Love Hacked (Knitting in the City, #3)",118.0,2014,"4,12",`24306`
+35,935,935,"Kushiel's Dart (Phèdre's Trilogy, #1)",364.0,2001,"4,01",`77268`
+36,936,936,Twenties Girl (Hardcover),85.0,2009,"3,85",`161930`
+37,937,937,Alone With You in the Ether (Hardcover),,2020,"4,2",`18789`
+38,938,938,Ain't She Sweet? (Paperback),163.0,2004,"4,08",`23538`
+39,939,939,The Falling in Love Montage (Hardcover),366.0,2020,"3,89",`18347`
+40,940,940,,151.0,2008,"4,08",`30154`
+41,941,941,"How to Marry a Marquis (Agents of the Crown, #2)",20.0,1999,"4,04",`20497`
+42,942,942,"First Drop of Crimson (Night Huntress World, #1)",141.0,2010,"4,14",`56219`
+43,943,943,"Battle Royal (Palace Insiders, #1)",302.0,2021,"3,84",`8793`
+44,944,944,"Unveiled (Turner, #1)",113.0,2011,"3,86",`9105`
+45,945,945,The Summer of Broken Rules (Hardcover),367.0,2021,"4,07",`28866`
+46,946,946,Much Ado About You (Kindle Edition),61.0,2021,"3,67",`15445`
+47,947,947,"Hothouse Flower (Calloway Sisters, #2)",111.0,2014,"4,33",`39279`
+48,948,948,"Magic Bleeds (Kate Daniels, #4)",,2010,"4,44",`78949`
+49,949,949,"Sweet Evil (Sweet, #1)",,2012,"4,07",`76883`
+50,950,950,The Blue Castle (Mass Market Paperback),369.0,1926,"4,29",`36734`
+51,951,951,"Once Upon a Broken Heart (Once Upon a Broken Heart, #1)",133.0,2021,"4,15",`58490`
+52,952,952,"These Old Shades (Alastair-Audley, #1)",229.0,1926,"4,09",`18068`
+53,953,953,"Dark Needs at Night's Edge (Immortals After Dark, #4)",185.0,2008,"4,29",`49180`
+54,954,954,"The Opportunist (Love Me with Lies, #1)",370.0,2011,"4,2",`51392`
+55,955,955,"The Iron Daughter (The Iron Fey, #2)",207.0,2010,"4,08",`124451`
+56,956,956,"Something Blue (Darcy & Rachel, #2)",158.0,2005,"3,94",`213771`
+57,957,957,"Own the Wind (Chaos, #1)",231.0,2013,"4,2",`47464`
+58,958,958,"Firelight (Darkest London, #1)",251.0,2012,"3,77",`16432`
+59,959,959,"Addicted for Now (Addicted, #3)",111.0,2013,"4,26",`42708`
+60,960,960,"Beard in Mind (Winston Brothers, #4)",118.0,2017,"4,2",`22558`
+61,961,961,"The Best Man (Blue Heron, #1)",371.0,2013,"3,93",`27147`
+62,962,962,"Changeless (Parasol Protectorate, #2)",131.0,2010,"3,99",`44786`
+63,963,963,"Bittersweet (True North, #1)",181.0,2016,"4,04",`19508`
+64,964,964,The Best Thing (Kindle Edition),35.0,2019,"3,99",`27936`
+65,965,965,The Obsession (Hardcover),93.0,2016,"4,21",`71821`
+66,966,966,"The Mighty Storm (The Storm, #1)",372.0,2012,"4,16",`72206`
+67,967,967,A Lady for a Duke (Paperback),,2022,"4,21",`6029`
+68,968,968,Opposite of Always (Kindle Edition),373.0,2019,"3,67",`22288`
+69,969,969,"Wildest Dreams (Fantasyland, #1)",231.0,2011,"4,07",`31819`
+70,970,970,"Dance of the Gods (Circle Trilogy, #2)",93.0,2006,"4,16",`29877`
+71,971,971,,55.0,2011,"4,11",`96160`
+72,972,972,"Faking It (Losing It, #2)",,2013,"3,93",`34437`
+73,973,973,"The 5th Wave (The 5th Wave, #1)",374.0,2013,"4,02",`433565`
+74,974,974,Mr. Perfect (Mass Market Paperback),375.0,2000,"4,06",`34063`
+75,975,975,Honor's Splendour (Mass Market Paperback),171.0,1987,"4,23",`31123`
+76,976,976,"Lady Sophia's Lover (Bow Street Runners, #2)",68.0,2002,"3,96",`19157`
+77,977,977,Fight or Flight (Paperback),61.0,2018,"3,73",`21971`
+78,978,978,The Baller (Kindle Edition),250.0,2016,"4,03",`44153`
+79,979,979,"A Girl Like Her (Ravenswood, #1)",16.0,2018,"3,87",`8220`
+80,980,980,The Unexpected Everything (Hardcover),214.0,2016,"4,0",`38823`
+81,981,981,"Sustained (The Legal Briefs, #2)",106.0,2015,"4,28",`29349`
+82,982,982,"Once and Always (Sequels, #1)",198.0,1987,"4,18",`25997`
+83,983,983,"Wild Man (Dream Man, #2)",231.0,2011,"4,19",`42456`
+84,984,984,,151.0,2008,"4,18",`30702`
+85,985,985,Hands Down (Kindle Edition),35.0,2020,"3,96",`32373`
+86,986,986,"The Bird and the Sword (The Bird and the Sword Chronicles, #1)",215.0,2016,"4,2",`36320`
+87,987,987,"Once Upon a Winter's Eve (Spindle Cove, #1.5)",72.0,2011,"3,59",`11582`
+88,988,988,The Scorpio Races (Hardcover),75.0,2011,"4,08",`105997`
+89,989,989,"Shelter Mountain (Virgin River, #2)",222.0,2007,"4,17",`37378`
+90,990,990,Conversations with Friends (Kindle Edition),59.0,2017,"3,81",`338938`
+91,991,991,My Not So Perfect Life (Paperback),85.0,2017,"3,8",`111635`
+92,992,992,"Wrong (Cafe, #1)",376.0,2015,"3,84",`43621`
+93,993,993,"Lothaire (Immortals After Dark, #11)",185.0,2012,"4,38",`44918`
+94,994,994,"Lord of the Fading Lands (Tairen Soul, #1)",340.0,2007,"3,99",`20804`
+95,995,995,"Smaragdgrün (Edelstein-Trilogie, #3)",263.0,2010,"4,19",`88106`
+96,996,996,The Holiday Swap (Kindle Edition),377.0,2021,"3,61",`36104`
+97,997,997,"The Stopover (The Miles High Club, #1)",378.0,2019,"4,1",`83232`
+98,998,998,Midnight Bayou (Mass Market Paperback),93.0,2001,"3,99",`33186`
+99,999,999,Lady Chatterley's Lover (Hardcover),379.0,1928,"3,51",`111798`
+100,1000,1000,"Big Rock (Big Rock, #1)",380.0,2016,"3,93",`32326`
+101,1001,1001,The Silver Linings Playbook (Paperback),381.0,2008,"3,98",`154784`
+102,1002,1002,"Hate to Want You (Forbidden Hearts, #1)",170.0,2017,"3,72",`6516`
+103,1003,1003,,142.0,2019,"3,79",`4714`
+104,1004,1004,"Worth Any Price (Bow Street Runners, #3)",68.0,2003,"4,02",`19683`
+105,1005,1005,"Hero (Hero, #1)",61.0,2015,"4,05",`32391`
+106,1006,1006,"Something Wonderful (Sequels, #2)",198.0,1988,"4,31",`28330`
+107,1007,1007,Anyone But You (Mass Market Paperback),114.0,1996,"3,81",`20167`
+108,1008,1008,"Branded by Fire (Psy-Changeling, #6)",151.0,2009,"4,26",`31242`
+109,1009,1009,Catching Jordan (Paperback),382.0,2011,"3,84",`61749`
+110,1010,1010,,230.0,2008,"4,24",`54250`
+111,1011,1011,,35.0,2015,"3,96",`26860`
+112,1012,1012,"Valley of Silence (Circle Trilogy, #3)",93.0,2006,"4,24",`28563`
+113,1013,1013,"Hooked (Never After, #1)",383.0,2021,"3,9",`57684`
+114,1014,1014,,45.0,2014,"3,93",`32335`
+115,1015,1015,"Night Play (Dark-Hunter, #5; Were-Hunter, #1)",203.0,2004,"4,34",`53073`
+116,1016,1016,Yes No Maybe So (ebook),,2020,"3,77",`22879`
+117,1017,1017,Just Haven't Met You Yet (Paperback),294.0,2021,"3,81",`35118`
+118,1018,1018,"To Sir, with Love (Paperback)",384.0,2021,"3,85",`18958`
+119,1019,1019,Let's Talk About Love (ebook),385.0,2018,"3,73",`9914`
+120,1020,1020,"Uglies (Uglies, #1)",386.0,2005,"3,85",`622785`
+121,1021,1021,,387.0,2016,"4,04",`32724`
+122,1022,1022,"The Luxe (Luxe, #1)",,2007,"3,64",`71900`
+123,1023,1023,"Rosaline Palmer Takes the Cake (Winner Bakes All, #1)",80.0,2021,"3,93",`8614`
+124,1024,1024,"The Legacy (Off-Campus, #5)",21.0,2021,"3,76",`51832`
+125,1025,1025,"Intercepted (Playbook, #1)",389.0,2018,"3,75",`11474`
+126,1026,1026,Everything Leads to You (Hardcover),390.0,2014,"3,85",`32061`
+127,1027,1027,The Prize (Mass Market Paperback),171.0,1991,"4,22",`29102`
+128,1028,1028,"Rival (Fall Away, #2)",,2014,"4,06",`44757`
+129,1029,1029,,,2018,"4,22",`27183`
+130,1030,1030,"The Unwanted Wife (Unwanted, #1)",392.0,2012,"3,87",`39577`
+131,1031,1031,"Kiss of Snow (Psy-Changeling, #10)",151.0,2011,"4,45",`30080`
+132,1032,1032,Wedding Night (Paperback),85.0,2013,"3,45",`90221`
+133,1033,1033,What Happened to Goodbye (Hardcover),,2011,"3,95",`86445`
+134,1034,1034,,86.0,2011,"4,19",`180768`
+135,1035,1035,The Lover's Dictionary (Hardcover),137.0,2011,"3,88",`44871`
+136,1036,1036,Accidentally Engaged (Paperback),393.0,2021,"3,74",`10617`
+137,1037,1037,"Dirty (Dive Bar, #1)",,2016,"3,89",`25954`
+138,1038,1038,"The Hooker and the Hermit (Rugby, #1)",394.0,2015,"3,91",`26872`
+139,1039,1039,"Spin the Dawn (The Blood of Stars, #1)",395.0,2019,"4,0",`44639`
+140,1040,1040,"A Prince on Paper (Reluctant Royals, #3)",142.0,2019,"4,04",`5598`
+141,1041,1041,Saving Grace (Paperback),171.0,1993,"4,25",`26972`
+142,1042,1042,"Release Me (Stark Trilogy, #1)",396.0,2013,"4,12",`77852`
+143,1043,1043,"Stargirl (Stargirl, #1)",,2000,"3,77",`317010`
+144,1044,1044,"Daring to Dream (Dream Trilogy, #1)",93.0,1996,"4,04",`25394`
+145,1045,1045,"Falling into You (Falling, #1)",398.0,2013,"4,03",`53083`
+146,1046,1046,,151.0,2011,"4,22",`41665`
+147,1047,1047,"The Darkest Minds (The Darkest Minds, #1)",399.0,2012,"4,16",`176313`
+148,1048,1048,"A Not So Meet Cute (Cane Brothers, #1)",400.0,2021,"4,15",`60854`
+149,1049,1049,Too Late (ebook),7.0,2016,"3,95",`90978`
+150,1050,1050,"Breathe (Colorado Mountain, #4)",231.0,2012,"4,34",`36423`
+151,1051,1051,"One Dance with a Duke (Stud Club, #1)",,2010,"3,86",`14413`
+152,1052,1052,"Acheron (Dark-Hunter, #14)",203.0,2008,"4,56",`58019`
+153,1053,1053,"Blurred Lines (Love Unexpectedly, #1)",384.0,2015,"3,94",`24337`
+154,1054,1054,"The Game Plan (Game On, #3)",251.0,2015,"4,1",`29269`
+155,1055,1055,"Love Irresistibly (FBI/US Attorney, #4)",168.0,2013,"4,09",`17950`
+156,1056,1056,"Lady Isabella's Scandalous Marriage (MacKenzies & McBrides, #2)",176.0,2010,"3,92",`16893`
+157,1057,1057,,20.0,2008,"3,6",`15594`
+158,1058,1058,"Dark Desires After Dusk (Immortals After Dark, #5)",185.0,2008,"4,34",`46777`
+159,1059,1059,"Twisted Lies (Twisted, #4)",109.0,2022,"4,32",`57535`
+160,1060,1060,,,2013,"4,03",`66150`
+161,1061,1061,Flowers from the Storm (Mass Market Paperback),402.0,1992,"4,09",`14924`
+162,1062,1062,"It Ain't Me, Babe (Hades Hangmen, #1)",152.0,2014,"4,1",`43938`
+163,1063,1063,Agnes and the Hitman (The Organization #0),114.0,2007,"3,95",`19791`
+164,1064,1064,"Aristotle and Dante Dive into the Waters of the World (Aristotle and Dante, #2)",44.0,2021,"4,15",`51341`
+165,1065,1065,The Princess Trap (Paperback),,2018,"3,76",`9367`
+166,1066,1066,"Ruckus (Sinners of Saint, #2)",132.0,2017,"4,18",`49537`
+167,1067,1067,"The Prince (The Selection, #0.5)",28.0,2013,"3,91",`76240`
+168,1068,1068,"The Indigo Spell (Bloodlines, #3)",86.0,2013,"4,36",`99921`
+169,1069,1069,"The Hollow (Sign of Seven, #2)",93.0,2008,"4,14",`31799`
+170,1070,1070,"The Dream Thieves (The Raven Cycle, #2)",75.0,2013,"4,22",`182623`
+171,1071,1071,"Lady Luck (Colorado Mountain, #3)",231.0,2011,"4,41",`38174`
+172,1072,1072,You Made a Fool of Death with Your Beauty (Hardcover),403.0,2022,"3,75",`14222`
+173,1073,1073,"One Week Girlfriend (One Week Girlfriend, #1)",404.0,2013,"3,92",`52570`
+174,1074,1074,A Quick Bite (Argeneau #1),405.0,2005,"3,9",`42772`
+175,1075,1075,Blackmoore (Paperback),,2013,"4,17",`27410`
+176,1076,1076,"Call Me Irresistible (Wynette, Texas, #6)",163.0,2010,"4,1",`23057`
+177,1077,1077,"To Catch an Heiress (Agents of the Crown, #1)",20.0,1998,"3,91",`17815`
+178,1078,1078,"Master of Crows (Master of Crows, #1)",125.0,2009,"3,93",`16671`
+179,1079,1079,,185.0,2009,"4,32",`42549`
+180,1080,1080,By the Book (Meant to Be #2),38.0,2022,"3,76",`16655`
+181,1081,1081,Far From the Madding Crowd (Paperback),406.0,1874,"3,95",`142383`
+182,1082,1082,"Royally Matched (Royally, #2)",106.0,2017,"4,12",`22965`
+183,1083,1083,"The King (Black Dagger Brotherhood, #12)",42.0,2014,"4,36",`52334`
+184,1084,1084,"Gentle Rogue (Malory-Anderson Family, #3)",407.0,1990,"4,2",`21517`
+185,1085,1085,,408.0,2020,"4,27",`27860`
+186,1086,1086,"Full Tilt (Full Tilt, #1)",409.0,2016,"4,42",`21057`
+187,1087,1087,"Anna Dressed in Blood (Anna, #1)",410.0,2011,"3,91",`103192`
+188,1088,1088,"The Ugly Duchess (Fairy Tales, #4)",220.0,2012,"3,65",`13514`
+189,1089,1089,The Villa (Paperback),93.0,2001,"3,99",`28231`
+190,1090,1090,"Spell of the Highlander (Highlander, #7)",156.0,2005,"4,27",`26290`
+191,1091,1091,Chasing Fire (Hardcover),93.0,2011,"4,13",`38137`
+192,1092,1092,"Beautiful Secret (Beautiful Bastard, #4)",9.0,2015,"4,06",`32632`
+193,1093,1093,"Rapture (Fallen, #4)",95.0,2012,"3,99",`112876`
+194,1094,1094,"Beautiful Darkness (Caster Chronicles, #2)",116.0,2010,"3,83",`132770`
+195,1095,1095,10 Blind Dates (Hardcover),411.0,2019,"4,02",`20195`
+196,1096,1096,"Eat, Pray, Love (Paperback)",412.0,2006,"3,6",`1638005`
+197,1097,1097,"Count Your Lucky Stars (Written in the Stars, #3)",,2022,"4,03",`10675`
+198,1098,1098,The Queer Principles of Kit Webb (London Highwaymen #1),413.0,2021,"3,93",`5949`
+199,1099,1099,"Twice Tempted (Night Prince, #2)",141.0,2013,"4,26",`41696`
+200,1100,1100,She Gets the Girl (Hardcover),,2022,"4,22",`17332`
+201,1101,1101,,162.0,2016,"4,25",`137939`
+202,1102,1102,"Rich People Problems (Crazy Rich Asians, #3)",,2017,"3,94",`151427`
+203,1103,1103,"Blue Lily, Lily Blue (The Raven Cycle, #3)",,2014,"4,26",`148311`
+204,1104,1104,"Beauty and the Blacksmith  (Spindle Cove, #3.5)",72.0,2013,"3,76",`11041`
+205,1105,1105,"World After (Penryn & the End of Days, #2)",237.0,2013,"4,15",`100144`
+206,1106,1106,"Leaving Paradise (Leaving Paradise, #1)",63.0,2007,"4,0",`42404`
+207,1107,1107,,267.0,2008,"4,34",`118764`
+208,1108,1108,"To Love and to Loathe (The Regency Vows, #2)",334.0,2021,"3,51",`11074`
+209,1109,1109,"The Proposition (The Proposition, #1)",414.0,2012,"4,02",`50566`
+210,1110,1110,"Stalking Jack the Ripper (Stalking Jack the Ripper, #1)",298.0,2016,"3,98",`111531`
+211,1111,1111,"Stay with Me (Wait for You, #3)",55.0,2014,"4,16",`32339`
+212,1112,1112,"Rock Chick Rescue (Rock Chick, #2)",231.0,2009,"4,3",`36458`
+213,1113,1113,"Almost Heaven (Sequels, #3)",198.0,1989,"4,34",`26999`
+214,1114,1114,"The Secret History of the Pink Carnation (Pink Carnation, #1)",415.0,2004,"3,69",`22581`
+215,1115,1115,"Fallen Crest High (Fallen Crest High, #1)",416.0,2012,"4,09",`54947`
+216,1116,1116,Dear Ava (Kindle Edition),417.0,2020,"4,15",`41261`
+217,1117,1117,,203.0,2004,"4,22",`43489`
+218,1118,1118,"Fixed on You (Fixed, #1)",418.0,2013,"4,13",`54771`
+219,1119,1119,"Good Boy (WAGs, #1)",181.0,2017,"4,04",`20456`
+220,1120,1120,"Wintersong (Wintersong, #1)",419.0,2017,"3,54",`29627`
+221,1121,1121,Black Hills (Hardcover),93.0,2009,"4,13",`38453`
+222,1122,1122,"The Darkest Temptation (Made, #3)",149.0,2020,"4,12",`65357`
+223,1123,1123,"Naked (The Blackstone Affair, #1)",420.0,2012,"4,01",`73497`
+224,1124,1124,Someone Like You (Paperback),153.0,1998,"3,92",`101491`
+225,1125,1125,The Age of Innocence (Paperback),421.0,1920,"3,96",`158108`
+226,1126,1126,"American Queen (New Camelot Trilogy, #1)",277.0,2016,"3,95",`28416`
+227,1127,1127,"Blood Bound (Mercy Thompson, #2)",267.0,2007,"4,3",`121647`
+228,1128,1128,"Magic Study (Study, #2)",177.0,2006,"4,04",`76628`
+229,1129,1129,"The Sisterhood of the Traveling Pants (Sisterhood, #1)",422.0,2001,"3,82",`672829`
+230,1130,1130,Sylvester (Paperback),229.0,1957,"4,13",`15870`
+231,1131,1131,"The Raven King (The Raven Cycle, #4)",75.0,2016,"4,25",`129859`
+232,1132,1132,,,2013,"3,87",`44756`
+233,1133,1133,"Beauty from Pain (Beauty, #1)",423.0,2013,"4,22",`55542`
+234,1134,1134,Sweet Temptation (Kindle Edition),264.0,2020,"4,05",`47534`
+235,1135,1135,I Capture the Castle (Hardcover),424.0,1948,"4,0",`95848`
+236,1136,1136,"Slippery Creatures (The Will Darling Adventures, #1)",285.0,2020,"4,07",`7845`
+237,1137,1137,Leo (Kindle Edition),48.0,2013,"4,0",`38850`
+238,1138,1138,"Hex Hall (Hex Hall, #1)",288.0,2010,"3,92",`140304`
+239,1139,1139,,425.0,2022,"3,71",`13844`
+240,1140,1140,"Crave (Crave, #1)",426.0,2020,"3,81",`97338`
+241,1141,1141,Second Chance Summer (Hardcover),214.0,2012,"4,13",`50899`
+242,1142,1142,"A Lot Like Adiós (Primas of Power, #2)",112.0,2021,"3,75",`9457`
+243,1143,1143,"Dragon Actually (Dragon Kin, #1)",427.0,2004,"3,92",`28733`
+244,1144,1144,"Transcendence (Transcendence, #1)",428.0,2014,"4,05",`20945`
+245,1145,1145,"Because of Low (Sea Breeze, #2)",124.0,2012,"4,12",`55748`
+246,1146,1146,"Scandalous (Sinners of Saint, #3)",132.0,2017,"4,18",`45822`
+247,1147,1147,"Guilty Pleasures (Anita Blake, Vampire Hunter, #1)",429.0,1993,"4,02",`142203`
+248,1148,1148,"Seize the Night (Dark-Hunter, #6)",203.0,2004,"4,34",`46888`
+249,1149,1149,The Soldier's Scoundrel (The Turners #1),413.0,2016,"4,01",`6225`
+250,1150,1150,"Faking It (Dempseys, #2)",114.0,2002,"3,92",`18934`
+251,1151,1151,Meet Me in the Margins (Paperback),430.0,2022,"3,64",`17452`
+252,1152,1152,"The Pagan Stone (Sign of Seven, #3)",93.0,2008,"4,17",`30352`
+253,1153,1153,"Collide (Collide, #1)",431.0,2013,"4,2",`64734`
+254,1154,1154,"Lord of Shadows (The Dark Artifices, #2)",37.0,2017,"4,44",`129104`
+255,1155,1155,"Warprize  (Chronicles of the Warlands, #1)",432.0,2005,"3,97",`18725`
+256,1156,1156,The Geography of You and Me (Hardcover),139.0,2014,"3,65",`33598`
+257,1157,1157,,47.0,2014,"3,62",`123820`
+258,1158,1158,"A Beautiful Wedding (Beautiful, #2.5)",26.0,2013,"3,99",`62556`
+259,1159,1159,,433.0,2018,"3,75",`7578`
+260,1160,1160,Once and for All (Hardcover),153.0,2017,"3,76",`33164`
+261,1161,1161,Swear on This Life (Paperback),274.0,2016,"4,16",`36950`
+262,1162,1162,"Shadow Spell (The Cousins O'Dwyer Trilogy, #2)",93.0,2014,"4,06",`37196`
+263,1163,1163,The Fastest Way to Fall (Paperback),236.0,2021,"4,07",`13463`
+264,1164,1164,First Comes Scandal (Rokesbys #4),20.0,2020,"3,83",`22463`
+265,1165,1165,"Love Only Once (Malory-Anderson Family, #1)",407.0,1985,"4,05",`19449`
+266,1166,1166,History Is All You Left Me (ebook),89.0,2017,"3,98",`60787`
+267,1167,1167,,93.0,1996,"4,06",`22798`
+268,1168,1168,By a Thread (Kindle Edition),301.0,2020,"4,19",`52857`
+269,1169,1169,"Destroy Me (Shatter Me, #1.5)",58.0,2012,"4,11",`137383`
+270,1170,1170,"A Brush with Love (A Brush with Love, #1)",,2022,"3,78",`11464`
+271,1171,1171,"Forever My Girl (Beaumont Series, #1)",435.0,2012,"4,0",`51233`
+272,1172,1172,"Demon from the Dark (Immortals After Dark, #9)",185.0,2010,"4,43",`46053`
+273,1173,1173,,289.0,2007,"3,92",`257157`
+274,1174,1174,,118.0,2017,"4,25",`17951`
+275,1175,1175,"One for the Money (Stephanie Plum, #1)",436.0,1994,"4,04",`520424`
+276,1176,1176,"This Side of the Grave (Night Huntress, #5)",141.0,2011,"4,26",`61607`
+277,1177,1177,Top Secret (ebook),181.0,2019,"4,15",`17678`
+278,1178,1178,"King's Cage (Red Queen, #3)",91.0,2017,"3,94",`200495`
+279,1179,1179,"The Golden Lily (Bloodlines, #2)",86.0,2012,"4,31",`115487`
+280,1180,1180,,437.0,1999,"3,96",`121017`
+281,1181,1181,"Shades of Milk and Honey (Glamourist Histories, #1)",438.0,2010,"3,49",`15908`
+282,1182,1182,"Sins & Needles (The Artists Trilogy, #1)",439.0,2013,"3,94",`22475`
+283,1183,1183,"Just One Year (Just One Day, #2)",50.0,2013,"3,89",`42605`
+284,1184,1184,Lolita (Paperback),440.0,1955,"3,88",`763469`
+285,1185,1185,"Wicked (A Wicked Trilogy, #1)",55.0,2014,"3,99",`44787`
+286,1186,1186,How to Walk Away (Hardcover),210.0,2018,"4,08",`67507`
+287,1187,1187,"Dirty Rowdy Thing (Wild Seasons, #2)",,2014,"4,2",`28108`
+288,1188,1188,"Bright Side (Bright Side, #1)",441.0,2014,"4,33",`45290`
+289,1189,1189,"Until You (Fall Away, #1.5)",46.0,2013,"4,25",`48336`
+290,1190,1190,"Finding the Dream (Dream Trilogy, #3)",93.0,1997,"4,1",`21944`
+291,1191,1191,If This Gets Out (Hardcover),313.0,2021,"4,01",`16385`
+292,1192,1192,"Reckless (Thoughtless, #3)",179.0,2013,"4,41",`77124`
+293,1193,1193,"Devil's Cub (Alastair-Audley, #2)",,1932,"4,22",`15080`
+294,1194,1194,,220.0,2007,"3,67",`10631`
+295,1195,1195,"Seduction of a Highland Lass (McCabe Trilogy, #2)",254.0,2011,"4,16",`24224`
+296,1196,1196,,413.0,2017,"3,88",`5531`
+297,1197,1197,"Pleasure of a Dark Prince (Immortals After Dark, #8)",185.0,2010,"4,37",`43345`
+298,1198,1198,The Price of Salt (Paperback),442.0,1952,"4,0",`58301`
+299,1199,1199,"Starcrossed (Starcrossed, #1)",443.0,2011,"4,05",`71063`
