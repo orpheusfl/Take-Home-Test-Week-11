@@ -46,7 +46,7 @@ def load_csv(filepath: str, conn: sqlite3.Connection) -> pd.DataFrame:
     df['year'] = pd.to_numeric(df['year'], errors='coerce')
     df['ratings'] = df['ratings'].str.replace('`', '').astype(int)
 
-    # Remove bracketed content from titles (e.g., "(Paperback)")
+    # Remove bracketed content from titles
     df['title'] = df['title'].str.replace(
         r'\s*\(.*?\)', '', regex=True).str.strip()
 
@@ -56,19 +56,10 @@ def load_csv(filepath: str, conn: sqlite3.Connection) -> pd.DataFrame:
     # Reorder columns to match expected output
     df = df[['title', 'author_name', 'year', 'rating', 'ratings']]
 
+    # Sort by rating in descending order
+    df = df.sort_values('rating', ascending=False)
+
     return df
-
-
-def save_csv(df: pd.DataFrame) -> None:
-    '''
-    Saves a dataframe to the PROCESSED_DATA.csv file.
-    Any previous data in PROCESSED_DATA.csv will be overwritten.
-
-    Args:
-        df: DataFrame to save
-    '''
-    df.to_csv('data/PROCESSED_DATA.csv', index=False)
-    return
 
 
 def main(args: list[str]) -> None:
@@ -86,7 +77,7 @@ def main(args: list[str]) -> None:
     filepath = args[1]
     conn = get_db_connection()
     processed_data = load_csv(filepath, conn)
-    save_csv(processed_data)
+    processed_data.to_csv('data/PROCESSED_DATA.csv', index=False)
     print(
         f"Successfully processed {filepath} and saved to data/PROCESSED_DATA.csv")
 
